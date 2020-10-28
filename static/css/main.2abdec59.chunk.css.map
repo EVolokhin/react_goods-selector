@@ -1,0 +1,1 @@
+{"version":3,"sources":["good.scss"],"names":[],"mappings":"AAAA,UACE,qBACA","file":"main.2abdec59.chunk.css","sourcesContent":[".selected {\n  background-color: yellow\n  ;\n}\n"]}
